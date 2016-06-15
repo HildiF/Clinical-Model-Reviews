@@ -1,3 +1,5 @@
+![Review](file://localhost/Users/hildegardfranke/Documents/Pictures/review.jpg)
+
 # Clinical Model Reviews #
 
 This page provides a brief overview of what clinical model reviews are about in general as well as a brief introduction to the particular project / template or archetype you have been asked to review.
