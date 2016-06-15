@@ -1,4 +1,4 @@
-![Review](file://localhost/Users/hildegardfranke/Documents/Pictures/review.jpg)
+![Review](https://github.com/HildiF/Clinical-Model-Reviews/blob/master/review.jpg)
 
 # Clinical Model Reviews #
 
